@@ -206,6 +206,7 @@ an awesome list of free SaaS (software as a service) for you.
 
 - [Sentry](https://sentry.io/welcome/) - Application monitoring platform helps every developer diagnose, fix, and optimize the performance of their code.
 - [loggly](https://www.loggly.com/) - Log analysis & monitoring in the cloud.
+- [Telemetry Tracker](https://github.com/Telemetry-Tracker/telemetry-tracker) - Open-source, self-hostable error tracker for side projects and small teams, with grouped errors, source maps and alerts. Free hosted plan available.
 - [日志易](https://www.rizhiyi.com/) - 自助在线日志分析平台
 
 ## Information
